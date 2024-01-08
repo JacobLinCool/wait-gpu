@@ -2,6 +2,8 @@
 
 A tiny script to to monitor the available memory on a specific GPU and wait until a minimum threshold of free memory is reached before executing a given command.
 
+> May be useful for running experiments on a shared GPU server without scheduling management.
+
 ## Usage
 
 ```bash
